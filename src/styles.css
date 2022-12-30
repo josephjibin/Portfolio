@@ -2,7 +2,7 @@
     --blue: #BAB1C5;
     --blue-light: #4e6ef2;
     --gray-light: #778899;
-    --dark-gray:#041C35;
+    --dark-gray:#041c3585;
     --black: #000000;
 }
 
@@ -25,7 +25,7 @@ h1 {
     letter-spacing: 1px;
     color: var(--blue);
     /* outline: 1px solid rgb(56, 54, 54); */
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif, sans-serif;
 }
 html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body { margin: 0; font-family:'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif, "Helvetica Neue", sans-serif; }

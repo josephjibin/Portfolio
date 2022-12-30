@@ -10,6 +10,7 @@ import { SkillsComponent } from './skills/skills.component';
 import { ProjectComponent } from './project/project.component';
 import { WorkExperinceComponent } from './work-experince/work-experince.component';
 import { ResponsiveDirective } from './directive/responsive.directive';
+import { NavBarComponent } from './nav-bar/nav-bar.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ResponsiveDirective } from './directive/responsive.directive';
     SkillsComponent,
     ProjectComponent,
     WorkExperinceComponent,
-    ResponsiveDirective
+    ResponsiveDirective,
+    NavBarComponent
   ],
   imports: [
     BrowserModule,
